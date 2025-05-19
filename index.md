@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ayush Modi
+title: ayush 
 ---
 
 # **Ayush Modi**  
@@ -32,6 +32,6 @@ Math + CS undergrad. I enjoy solving hard problems, especially those with real-w
 ---
 
 ## Contact  
-📬 [ayushmodi2003@gmail.com](mailto:ayushmodi2003@gmail.com)  
-🐦 [@ayushm2003](https://twitter.com/ayushm2003)  
-🔗 [GitHub](https://github.com/ayushm2003)
+[ayushmodi2003@gmail.com](mailto:ayushmodi2003@gmail.com)  
+[@ayushm2003](https://twitter.com/ayushm2003)  
+[GitHub](https://github.com/ayushm2003)
