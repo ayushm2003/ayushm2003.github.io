@@ -1,0 +1,6 @@
+title: ayush
+description: A simple, minimalist site
+baseurl: "" # leave blank for GitHub Pages user/organization site
+url: ""     # leave blank for GitHub Pages
+markdown: kramdown
+theme: null 
