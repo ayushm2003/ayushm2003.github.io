@@ -1,7 +1,7 @@
 body {
 	font-family: 'Georgia', serif;
 	max-width: 700px;
-	margin: 40px auto;
+	margin: 40px 0 40px 40px;
 	padding: 0 20px;
 	background: #fff;
 	color: #111;
@@ -29,4 +29,14 @@ ul {
 
 li {
 	margin-bottom: 0.5em;
+}
+
+.profile-pic {
+	display: block;
+	margin: 0 auto 1.5em auto;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	object-fit: cover;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
