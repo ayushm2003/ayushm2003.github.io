@@ -8,28 +8,33 @@ title: ayush
 
 ---
 
-#### About Me  
-Previously founding engineer at Spire (ex-Nethermind, Push). I build infrastructure for rollups, explore zero-knowledge systems, and believe in making crypto UX better.  
-Math + CS undergrad. I enjoy solving hard problems, especially those with real-world impact. Based in India.
+### About  
+Techno-optimist. Thinking of what's next.
+Previously at Spire, Nethermind, and Push.  
+Math + CS undergrad, recently graduated.
 
 ---
 
-#### What I’m Into  
-- Rust, Ethereum, SNARKs  
-- IoT + Embedded Systems  
-- Terraform, AWS, K8s  
-- Digital sustainability and network states  
-- Quizzing
+### What I’m Thinking About  
+*This section’s always evolving. Right now, I'm exploring a few threads — more soon.*
 
 ---
 
-#### Personal Projects  
-- Nova-based SNARK Circuit on WASM
-- Small cars simulating F1 race using ESPs
+### Things I’ve Built  
+- Preconfirm RPC router for sequencer clients  
+- Nova-based SNARK pipeline to WASM  
+- F1-style track with GPS + sensors using ESPs  
+→ [GitHub](https://github.com/ayushm2003)
 
 ---
 
-## Contact  
+### Bookmarks  
+Curating this slowly. Expect essays, talks, and papers I keep coming back to.
+
+---
+
+### Contact
 Mail: [ayushmodi2003@gmail.com](mailto:ayushmodi2003@gmail.com)  
+Farcaster: [@ayushm2003](https://warpcast.com/ayushm.eth)
 X: [@ayushm2003](https://x.com/ayushm2003)  
 GitHub: [@ayushm2003](https://github.com/ayushm2003)
