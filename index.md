@@ -9,7 +9,7 @@ title: ayush
 ---
 
 ### About  
-Techno-optimist. Thinking of what's next.
+Techno-optimist. Thinking of what's next.	
 Previously at Spire, Nethermind, and Push.  
 Math + CS undergrad, recently graduated.
 
@@ -35,6 +35,6 @@ Curating this slowly. Expect essays, talks, and papers I keep coming back to.
 
 ### Contact
 Mail: [ayushmodi2003@gmail.com](mailto:ayushmodi2003@gmail.com)  
-Farcaster: [@ayushm2003](https://warpcast.com/ayushm.eth)
+Farcaster: [@ayushm2003](https://warpcast.com/ayushm.eth)	
 X: [@ayushm2003](https://x.com/ayushm2003)  
 GitHub: [@ayushm2003](https://github.com/ayushm2003)
