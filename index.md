@@ -8,19 +8,19 @@ title: ayush
 
 ---
 
-### About  
+#### About  
 Techno-optimist. Thinking of what's next.	
 Previously at Spire, Nethermind, and Push.  
 Math + CS undergrad, recently graduated.
 
 ---
 
-### What I’m Thinking About  
+#### What I’m Thinking About  
 *This section’s always evolving. Right now, I'm exploring a few threads — more soon.*
 
 ---
 
-### Things I’ve Built  
+#### Things I’ve Built  
 - Preconfirm RPC router for sequencer clients  
 - Nova-based SNARK pipeline to WASM  
 - F1-style track with GPS + sensors using ESPs  
@@ -28,12 +28,12 @@ Math + CS undergrad, recently graduated.
 
 ---
 
-### Bookmarks  
+#### Bookmarks  
 Curating this slowly. Expect essays, talks, and papers I keep coming back to.
 
 ---
 
-### Contact
+#### Elsewhere
 Mail: [ayushmodi2003@gmail.com](mailto:ayushmodi2003@gmail.com)  
 Farcaster: [@ayushm2003](https://warpcast.com/ayushm.eth)	
 X: [@ayushm2003](https://x.com/ayushm2003)  
