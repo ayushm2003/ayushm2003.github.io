@@ -37,6 +37,6 @@ Curating this slowly. Expect essays, talks, and papers I keep coming back to.
 
 #### Elsewhere
 Mail: [ayushmodi2003@gmail.com](mailto:ayushmodi2003@gmail.com)  
-Farcaster: [@ayushm2003](https://warpcast.com/ayushm.eth)  
+Farcaster: [@ayushm.eth](https://farcaster.xyz/ayushm.eth)  
 X: [@ayushm2003](https://x.com/ayushm2003)  
 GitHub: [@ayushm2003](https://github.com/ayushm2003)
