@@ -19,9 +19,7 @@ Math + CS undergrad, recently graduated.
 #### What I'm Thinking About  
 *This section's always evolving. Right now, I'm exploring a few threads — more soon.*
 
-- [Building Better Developer Tools](2024/01/15/building-better-tools.html)
-- [The Future of Decentralized Systems](2024/01/20/future-of-decentralized-systems.html)
-- [Why I'm Excited About Zero-Knowledge Proofs](2024/01/25/excited-about-zk-proofs.html)
+- [Energy](2025/09/15/energy.html)
 
 ---
 
