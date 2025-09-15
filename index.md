@@ -23,7 +23,7 @@ Math + CS undergrad, recently graduated.
 ---
 
 #### Things I’ve Built  
-- Preconfirm RPC router for based rollups    
+- Preconfirmation RPC router for based rollups    
 - Nova-based SNARK pipeline to WASM  
 - F1-style track with GPS + sensors using ESPs 
 
