@@ -17,7 +17,6 @@ Math + CS undergrad, recently graduated.
 ---
 
 #### What I'm Thinking About  
-*This section's always evolving. Right now, I'm exploring a few threads — more soon.*
 
 - [Energy](2025/09/15/energy.html)
 
