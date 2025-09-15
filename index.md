@@ -18,7 +18,7 @@ Math + CS undergrad, recently graduated.
 
 #### What I'm Thinking About  
 
-- [Energy](2025/09/15/energy.html)
+- [Energy](energy.html)
 
 ---
 
